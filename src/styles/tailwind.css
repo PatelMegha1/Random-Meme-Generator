@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h2 {
+    color: black;
+    text-align: center;
+    background: white;
+    padding: 4px;
+    padding-bottom: 10px;
+}
